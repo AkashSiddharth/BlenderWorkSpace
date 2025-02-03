@@ -1,0 +1,6 @@
+# Developer files
+*.blend
+*.blend1
+
+# Downloaded Assets
+Assets/*
